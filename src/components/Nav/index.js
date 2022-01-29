@@ -2,7 +2,7 @@ import React from "react";
 
 function Nav() {
   const categories = [
-    { name: "portfolio", description: "Links to projects I've created as a web developer" },
+    { name: "projects", description: "Links to projects I've created as a web developer" },
     { name: "resume", description: "My professional resume" },
   ];
 
