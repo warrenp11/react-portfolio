@@ -32,7 +32,7 @@ function ContactForm() {
       }
     }
 
-    console.log("errorMessage", errorMessage);
+    // console.log("errorMessage", errorMessage);
 
     if (!errorMessage) {
         setFormState({ ...formState, [e.target.name]: e.target.value });
@@ -59,7 +59,7 @@ function ContactForm() {
             type="text"
             name="name"
             defaultValue={name}
-            onChange={handleChange}
+            onBlur={handleChange}
           />
         </div>
         {/* // email input */}
@@ -69,7 +69,7 @@ function ContactForm() {
             type="email"
             name="email"
             defaultValue={email}
-            onChange={handleChange}
+            onBlur={handleChange}
           />
         </div>
         {/* // message text area */}
@@ -79,9 +79,14 @@ function ContactForm() {
             name="message"
             rows="5"
             defaultValue={message}
-            onChange={handleChange}
+            onBlur={handleChange}
           />
         </div>
+        {errorMessage && (
+          <div>
+            <p className="error-text">{errorMessage}</p>
+          </div>
+        )}
         <button type="submit">Submit</button>
       </form>
     </section>
