@@ -3,31 +3,31 @@ import React, { useState } from "react";
 const PhotoList = ({ category }) => {
   const [photos] = useState([
     {
-      name: "Green river",
+      name: "Coding Knowledge Quiz",
       category: "projects",
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie",
     },
     {
-      name: "Docks",
+      name: "Health Tracker App",
       category: "projects",
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie",
     },
     {
-      name: "Panoramic village by sea",
+      name: "Password Generator",
       category: "projects",
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie",
     },
     {
-      name: "Domestic projects",
+      name: "Kayne West vs. Ron Swanson: Random Quote Generator",
       category: "projects",
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie",
     },
     {
-      name: "Park bench",
+      name: "Work Day Scheduler",
       category: "projects",
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie",
