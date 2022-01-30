@@ -293,3 +293,12 @@ a {
 .navActive {
   color: var(--secondary);
 }
+
+footer ul {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+footer ul li {
+  font-size: 50px;
+}

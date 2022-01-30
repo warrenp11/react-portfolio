@@ -17,7 +17,7 @@ function Footer() {
               </li>
             </a>
 
-            <a href="instagram.com/repeteafterme/" target="blank">
+            <a href="https://www.instagram.com/repeteafterme/" target="blank">
               <li>
                 <FaInstagram/>
               </li>
