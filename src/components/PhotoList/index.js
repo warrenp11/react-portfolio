@@ -10,31 +10,31 @@ const PhotoList = ({ category }) => {
       name: "Coding Knowledge Quiz",
       category: "projects",
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie",
+        "Test your knowledge of basic coding principles like HTML, CSS, and JavaScript! Visit the GitHub repo at https://github.com/warrenp11/code-quiz",
     },
     {
       name: "Health Tracker App",
       category: "projects",
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie",
+        "Easily track your exercises and become a fitter you today! Visit the GitHub repo at https://github.com/warrenp11/health-tracker",
     },
     {
       name: "Password Generator",
       category: "projects",
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie",
+        "Need a strong password and you can't think of anything? Try out the Password Generator! Visit the GitHub repo at https://github.com/warrenp11/password-generator",
     },
     {
       name: "Kayne West vs. Ron Swanson: Random Quote Generator",
       category: "projects",
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie",
+        "Ever wondered who the greatest philosopher of our time is? Wonder no more! Generate a random quote by Kanye West and Ron Swanson, then choose who wins! Visit the GitHub repo at https://github.com/JBGinger/Group1.Module7Project",
     },
     {
       name: "Work Day Scheduler",
       category: "projects",
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie",
+        "Keep track of your work day and never miss another deadline again! Try out the Work Day Scheduler! Visit the GgitHub repo at https://github.com/warrenp11/work-day-scheduler",
     },
   ]);
 
