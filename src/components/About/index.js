@@ -13,15 +13,7 @@ function About() {
       />
       <div className="my-2">
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
-          bibendum turpis sed ex condimentum molestie. Mauris condimentum lectus
-          ut ornare dignissim. Mauris faucibus urna mi, ac feugiat metus aliquam
-          maximus. Proin aliquam justo nec diam vulputate vestibulum. Aenean
-          sollicitudin nulla at nisi ornare, nec suscipit massa eleifend. Morbi
-          tristique justo vel turpis sollicitudin, et tristique velit convallis.
-          In hac habitasse platea dictumst. Phasellus mattis nunc sed orci
-          consequat laoreet. Praesent id nisl nibh. Curabitur imperdiet
-          ultricies mollis. In hac habitasse platea dictumst.
+        Aspiring web developer with a background in business. Currently working toward a certificate in full stack development from Rutgers University, with newly developed skills in JavaScript, Node.js, MySQL, CSS, HTML, and responsive web design. A quick and passionate learner, organized, and an adept problem solver, I take it upon myself to become a better programmer every day. I'm excited to leverage my skills as part of a fast-paced, quality-driven team to build better experiences on the web.
         </p>
       </div>
     </section>
