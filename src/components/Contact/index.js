@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { validateEmail } from '../../utils/helpers';
+import { validateEmail } from "../../utils/helpers";
 
 function ContactForm() {
   // React Hook, clear the input fields on the component loading
@@ -35,8 +35,8 @@ function ContactForm() {
     // console.log("errorMessage", errorMessage);
 
     if (!errorMessage) {
-        setFormState({ ...formState, [e.target.name]: e.target.value });
-      }
+      setFormState({ ...formState, [e.target.name]: e.target.value });
+    }
   }
 
   //   console.log(formState);
@@ -50,7 +50,19 @@ function ContactForm() {
   // JSX
   return (
     <section>
-      <h1>Contact me</h1>
+      <p>
+        This contact form is currently not fuctional. <br />
+        <br />
+        If you would like to contact me please email me directly at
+        peterbenjaminwarren@gmail.com.
+        <br />
+        <br />
+        You can also visit my GitHub and LinkedIn accounts via the links at the
+        bottom of the page
+      </p>
+      <br />
+      <br />
+      <h1>*NOT FUNCTIONAL*</h1>
       <form id="contact-form" onSubmit={handleSubmit}>
         {/* // name input */}
         <div>

@@ -10,31 +10,31 @@ const PhotoList = ({ category }) => {
       name: "Coding Knowledge Quiz",
       category: "projects",
       description:
-        "Test your knowledge of basic coding principles like HTML, CSS, and JavaScript! Visit the GitHub repo at https://github.com/warrenp11/code-quiz",
+        "Test your knowledge of basic coding principles like HTML, CSS, and JavaScript! Built using HTML, CSS, and JavaScript! Visit the GitHub repo at https://github.com/warrenp11/code-quiz",
     },
     {
       name: "Health Tracker App",
       category: "projects",
       description:
-        "Easily track your exercises and become a fitter you today! Visit the GitHub repo at https://github.com/warrenp11/health-tracker",
+        " An interactive full-stack web application which used server-side JavaScript, RESTful APIs, databases, object-relational mapping, environment variables, templating, and authentication. Built with JavaScript, Node.js, Express, Handlebars, MySQL, and several npm packages. Easily track your exercises and become a fitter you today! Visit the GitHub repo at https://github.com/warrenp11/health-tracker",
     },
     {
       name: "Password Generator",
       category: "projects",
       description:
-        "Need a strong password and you can't think of anything? Try out the Password Generator! Visit the GitHub repo at https://github.com/warrenp11/password-generator",
+        "Need a strong password and you can't think of anything? Try out the Password Generator! Built using HTML, CSSm, and JavaScript! Visit the GitHub repo at https://github.com/warrenp11/password-generator",
     },
     {
       name: "Kayne West vs. Ron Swanson: Random Quote Generator",
       category: "projects",
       description:
-        "Ever wondered who the greatest philosopher of our time is? Wonder no more! Generate a random quote by Kanye West and Ron Swanson, then choose who wins! Visit the GitHub repo at https://github.com/JBGinger/Group1.Module7Project",
+        "Ever wondered who the greatest philosopher of our time is? Wonder no more! Generate a random quote by Kanye West and Ron Swanson, then choose who wins! This project was built as part of a group project using HTML, CSS and Foundation, JavaScript, and uses third-party APIs. Visit the GitHub repo at https://github.com/JBGinger/Group1.Module7Project",
     },
     {
       name: "Work Day Scheduler",
       category: "projects",
       description:
-        "Keep track of your work day and never miss another deadline again! Try out the Work Day Scheduler! Visit the GgitHub repo at https://github.com/warrenp11/work-day-scheduler",
+        "Keep track of your work day and never miss another deadline again! Try out the Work Day Scheduler! Built with HTML, CSS and Bootstrap, JavaScript, and jQuery! Visit the GitHub repo at https://github.com/warrenp11/work-day-scheduler",
     },
   ]);
 
